@@ -22,4 +22,4 @@
 
 <h1>MOBILE</h1>
 
-   <img src="https://github.com/MuhammadAqibRafiq/responsive-table-without-scroll/blob/main/mobile%20view.png" width="300"  height="850" />
+   <img src="https://github.com/MuhammadAqibRafiq/responsive-table-without-scroll/blob/main/mobile%20view.png" width="500"  height="650" />
